@@ -7,6 +7,14 @@
     "type": "git",
     "url": "https://github.com/Eclipter/eclipse-theme"
   },
+  "keywords": [
+    "Theme",
+    "Eclipse",
+    "Dark",
+    "Violet",
+    "Purple",
+    "Eclipter"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
