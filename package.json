@@ -5,7 +5,7 @@
   "publisher": "Eclipter",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Eclipter/eclipse-theme"
   },
   "version": "0.0.1",
   "engines": {
