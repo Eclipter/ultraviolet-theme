@@ -1,0 +1,26 @@
+{
+  "name": "eclipse-theme",
+  "displayName": "Eclipse Theme",
+  "description": "A simple dark violet theme for Visual Studio Code 🌌",
+  "publisher": "Eclipter",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Eclipse-color-theme.json"
+      }
+    ]
+  }
+}
