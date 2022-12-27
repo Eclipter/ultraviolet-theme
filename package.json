@@ -3,6 +3,7 @@
   "displayName": "Eclipse Theme",
   "description": "A simple dark violet theme for Visual Studio Code 🌌",
   "publisher": "Eclipter",
+  "icon": "profile_pic.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Eclipter/eclipse-theme"
