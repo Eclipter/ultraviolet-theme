@@ -1,16 +1,16 @@
 {
-  "name": "eclipse-theme",
-  "displayName": "Eclipse Theme",
+  "name": "ultraviolet-color-theme",
+  "displayName": "Ultraviolet Theme",
   "description": "A simple dark violet theme for Visual Studio Code 🌌",
   "publisher": "Eclipter",
   "icon": "profile_pic.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Eclipter/eclipse-theme"
+    "url": "https://github.com/Eclipter/ultraviolet-theme"
   },
   "keywords": [
     "Theme",
-    "Eclipse",
+    "Ultraviolet",
     "Dark",
     "Violet",
     "Purple",
@@ -26,9 +26,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Eclipse",
+        "label": "Ultraviolet",
         "uiTheme": "vs-dark",
-        "path": "./themes/Eclipse-color-theme.json"
+        "path": "./themes/ultraviolet-color-theme.json"
       }
     ]
   }

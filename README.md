@@ -1,3 +1,3 @@
-# eclipse-theme README
+# ultraviolet-theme README
 
 ## · Screenshots ·
